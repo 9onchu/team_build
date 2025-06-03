@@ -14,10 +14,20 @@
 
 
 .output {
+<<<<<<< HEAD
     text-align: center;
+=======
+    background-color: #5e0ede;
+>>>>>>> 8077eec16417c4506df0243a1b625da949940577
     border: 1px solid #ccc;
     padding: 10px;
     font-family: Arial, sans-serif;
     font-size: 14px;
     color: #333;
+}
+
+h1 {
+    background-color: #5e0ede;
+    font-size: 24px;
+    margin-bottom: 10px;
 }
